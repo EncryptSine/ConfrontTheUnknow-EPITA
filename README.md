@@ -1,5 +1,7 @@
 # ConfrontTheUnknown – EPITA
 
+> 🇫🇷 Version française ci-dessous — 🇬🇧 English version below 👇
+
 **Confront The Unknown** est un jeu d’horreur low-poly partiellement open-source :  
 🔓 **Le code source est disponible**  
 🚫 **Toute utilisation commerciale est strictement interdite**
