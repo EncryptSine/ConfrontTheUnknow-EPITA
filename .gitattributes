@@ -1,2 +1,4 @@
 Assets/* filter=lfs diff=lfs merge=lfs -text
 Assets/** filter=lfs diff=lfs merge=lfs -text
+*.html linguist-detectable=false
+*.cs linguist-language=C#
