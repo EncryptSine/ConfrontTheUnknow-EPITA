@@ -130,3 +130,4 @@ Installer available in the **Releases** tab.
 Feel free to play, fork, or just browse the code.
 
 And if you're at EPITA: **don’t plagiarize this or you’ll get a zero. Bye.**
+
