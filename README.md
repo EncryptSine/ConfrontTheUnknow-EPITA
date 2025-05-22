@@ -19,15 +19,17 @@ Développé avec **Unity** en **C#**, il plonge les joueurs dans un **bunker ang
 
 ## ⚙️ Mécaniques de jeu
 
-- 👥 Jusqu’à **5 joueurs** en coopération
+- 👥 Jusqu’à **5 joueurs** en coopération (via **Photon**)
 - 🔍 Objectif : **récupérer tous les indices** disséminés dans le bunker pour gagner
-- ☠️ Un **tueur contrôlé par une IA** rôde et vous traque sans relâche
+- ☠️ Un **tueur contrôlé par une IA (Unity AI)** rôde et vous traque sans relâche
 - 🎰 Objets à obtenir via des **machines à sous** : risque + récompense
 - 🧠 Gestion d’inventaire : **4 slots**
 - 🧰 Objets disponibles :
   - Lampe torche 🔦
   - Seringue de régénération 💉
   - Seringue de vitesse ⚡
+- 🎤 **Chat vocal de proximité via Photon Voice**
+- 🗺️ **Génération procédurale du bunker avec Kartograph**
 
 ---
 
@@ -42,14 +44,15 @@ Développé avec **Unity** en **C#**, il plonge les joueurs dans un **bunker ang
 
 ## 🛠️ Bugs connus (pas mon problème maintenant :3)
 
-- Sons de pas parfois absents
-- Collisions à revoir
+- Sons de pas parfois absents  
+- Collisions à revoir  
 
 ---
 
 ## 🗂️ Remarques sur le code
 
-On a essayé d’avoir une structure propre, **mais certaines personnes du groupe ont fait n’importe quoi** (oui, on parle du dossier des personnages joueurs non trié avec des noms wtf).  
+On a essayé d’avoir une structure propre, **mais certaines personnes du groupe ont fait n’importe quoi**  
+(oui, on parle du dossier des personnages joueurs non trié avec des noms wtf).  
 **Je ne suis pas responsable de ce chaos.**
 
 ---
@@ -86,15 +89,17 @@ Built in **Unity (C#)**, it takes place in a creepy bunker where teamwork is ess
 
 ## ⚙️ Game Mechanics
 
-- 👥 Up to **5-player co-op**
+- 👥 Up to **5-player co-op** (via **Photon**)
 - 🔍 Objective: **collect all clues** scattered in the bunker to win
-- ☠️ An **AI-controlled killer** hunts players down
+- ☠️ An **AI-controlled killer (Unity AI)** hunts players down
 - 🎰 Items are earned through **slot machines** — risk it all for a reward
 - 🧠 Inventory: **4 slots**
 - 🧰 Items available:
   - Flashlight 🔦
   - Regen syringe 💉
   - Speed syringe ⚡
+- 🎤 **Proximity voice chat using Photon Voice**
+- 🗺️ **Procedural map generation with Kartograph**
 
 ---
 
@@ -109,15 +114,16 @@ Built in **Unity (C#)**, it takes place in a creepy bunker where teamwork is ess
 
 ## 🛠️ Known Bugs (not my problem anymore :3)
 
-- Missing footstep sounds
-- Collision issues
+- Missing footstep sounds  
+- Collision issues  
 
 ---
 
 ## 🗂️ Code Notes
 
 We tried to keep things clean and organized...  
-**But some group members couldn’t care less**, and threw files all over (like the chaotic player character folder with awful names).  
+**But some group members couldn’t care less**, and threw files all over  
+(like the chaotic player character folder with awful names).  
 **Not my responsibility.**
 
 ---
@@ -130,4 +136,3 @@ Installer available in the **Releases** tab.
 Feel free to play, fork, or just browse the code.
 
 And if you're at EPITA: **don’t plagiarize this or you’ll get a zero. Bye.**
-
