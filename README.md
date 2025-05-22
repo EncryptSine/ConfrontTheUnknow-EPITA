@@ -4,7 +4,7 @@
 
 **Confront The Unknown** est un jeu d’horreur low-poly partiellement open-source :  
 🔓 **Le code source est disponible**  
-🚫 **Toute utilisation commerciale est strictement interdite**
+🚫 **Toute utilisation commerciale est strictement interdite (pas mon choix, EPITA garde les droits d'utilisation)**
 
 ---
 
@@ -71,7 +71,7 @@ Et si tu es à EPITA : **copier-coller le jeu = 0/20, bisous.**
 
 **Confront The Unknown** is a low-poly horror game, partially open-source:  
 🔓 **The full source code is available**  
-🚫 **Commercial use is strictly forbidden**
+🚫 **Commercial use is strictly forbidden (not my choice, EPITA retains the usage rights)**
 
 ---
 
